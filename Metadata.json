@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 2196,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-windows-azure-virtual-machines-on-a-schedule/master/Start-AzureVMsOnSchedule.ps1",
+    "DownloadCount": 12521,
+    "Id": "Start-Windows-Azure-b6c179b6",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 172,
+    "RaterCount": 16,
+    "Rating": 4.6,
+    "ReleaseDate": "2013-8-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Demonstrates starting a single Virtual Machine or set of Virtual Machines (using a wildcard pattern) within a Cloud Service.  It does this by creating scheduled tasks to start the Virtual Machine(s) on a schedule at the time specified.",
+    "Title": "Start Windows Azure Virtual Machines on a Schedule",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/start-windows-azure-virtual-machines-on-a-schedule",
+    "UserTags": "VM Lifecycle Management"
+}
